@@ -8,4 +8,10 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
-## Approach
+## Approach - 
+
+### 1. Data Collection and Preparation:
+
+	Gather ATM transaction data from the database or relevant sources.
+	Cleanse the data by removing duplicates, handling missing values, and formatting inconsistencies.
+	Perform data transformations such as filtering, sorting, and aggregating to prepare the data for analysis.
