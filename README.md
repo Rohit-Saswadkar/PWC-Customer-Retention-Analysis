@@ -51,6 +51,7 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 
 Continuously iterate and refine the report based on feedback from stakeholders and users.
 Incorporate any additional requirements or modifications to enhance the report's effectiveness and relevance.
-
+https://drive.google.com/file/d/1Nhx4i5XvXMJOONE9mlvIrNrKvVeXT0Rt/view?usp=sharing
+https://drive.google.com/file/d/16RNSzorkw1TBGkNJhxJrA-WXSg5_Rj8T/view?usp=sharing
 ![Screenshot 2024-07-04 130318](https://github.com/Rohit-Saswadkar/PWC-HR-Dashboard/assets/126965510/d83179b1-b56c-4483-88d3-6a1154a7e043)
 ![Screenshot 2024-07-04 130405](https://github.com/Rohit-Saswadkar/PWC-HR-Dashboard/assets/126965510/3d3e1c1f-ff34-4bc9-b27e-38c0bc29b061)
