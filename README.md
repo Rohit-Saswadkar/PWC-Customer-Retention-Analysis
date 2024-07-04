@@ -12,6 +12,6 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 
 ### 1. Data Collection and Preparation:
 
-	Gather ATM transaction data from the database or relevant sources.
-	Cleanse the data by removing duplicates, handling missing values, and formatting inconsistencies.
-	Perform data transformations such as filtering, sorting, and aggregating to prepare the data for analysis.
+- Gather ATM transaction data from the database or relevant sources.
+- Cleanse the data by removing duplicates, handling missing values, and formatting inconsistencies.
+- Perform data transformations such as filtering, sorting, and aggregating to prepare the data for analysis.
