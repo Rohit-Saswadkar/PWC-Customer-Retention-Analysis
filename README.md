@@ -1,30 +1,33 @@
-# PWC-HR-Dashboard
-
 ## Business Context:
 PricewaterhouseCoopers International Limited is a multinational professional services brand of firms, operating as partnerships under the PwC brand. It is the second-largest professional services network in the world and is considered one of the Big Four accounting firms, along with Deloitte, EY, and KPMG.
 
 ## Project Description:
-Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
-At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+
+Customers in the telecom industry are hard-earned: we don’t want to lose them
+The retention department is here to get customers back in case of termination 
+Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+We  have done customer analysis with Excel: it has always ended in a dead-end
+We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+The Retentions Manager has provided some information in the resources.
 
 ## Approach - 
 
 ### 1. Data Collection and Preparation:
 
-- Gather HR diversity and inclusion data from the database.
+- Gather customer churn data from the database.
 - Cleanse the data by removing duplicates, handling missing values, and formatting inconsistencies.
 - Perform data transformations such as filtering, sorting, and aggregating to prepare the data for analysis.
 
 ## 2. Define Key Metrics and KPIs:
 
 - Identify the key metrics and key performance indicators (KPIs) that align with the business objectives and stakeholder requirements.
-- Metrics can include % employees promoted (FY21), % of women promoted, % turnover , Average performance rating: men, Average Performance rating: women.
+- Metrics can include # of customers at risk, # of tech tickets, % of churn rate, % of churned senior citizens etc.
 
 ## 3. Data Modeling:
-
-- Develop a data model in Power BI to establish relationships between different data tables, such as departments and HR reources.
-- Create calculated columns and measures to derive additional insights from the data, such as Average Performance rating: women or percentage distributions.
+- Create calculated columns and measures to derive additional insights from the data, such as Loyalty and Risk Category on the basis of tenure.
 
 ## 4. Visualization Design:
 
@@ -34,7 +37,7 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 
 ## 5. Segmentation and Filtering:
 
-- Implement interactive features like slicers, filters, and drill-down capabilities to allow users to segment data based on different criteria such as Age group, Departments, Job level, Region group.
+- Implement interactive features like slicers, filters, and drill-down capabilities to allow users to segment data based on different criteria such as Internet service, Risk of Churn, Months Subscribed and Contact type.
 - Enable users to explore data dynamically and gain deeper insights by interacting with the report visuals.
 
 ## 6. Insights and Analysis:
@@ -50,12 +53,16 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 ## 8. Iteration and Refinement:
 
 Continuously iterate and refine the report based on feedback from stakeholders and users.
+
 Incorporate any additional requirements or modifications to enhance the report's effectiveness and relevance.
 
 Screenshots - 
-https://drive.google.com/file/d/1rCwCdiVybiu4oL7TLoa2f6GA_UAaBjcf/view?usp=sharing
-https://drive.google.com/file/d/1Nhx4i5XvXMJOONE9mlvIrNrKvVeXT0Rt/view?usp=sharing
+https://drive.google.com/file/d/1N1eG9yn0GK1Qf6rfGHZkzKDsuh7wx5re/view?usp=sharing
+https://drive.google.com/file/d/1X7gYnUqgiJeLqrghPdOxGcYA6XZla3F0/view?usp=sharing
 
-![Screenshot 2024-07-04 130318](https://github.com/Rohit-Saswadkar/PWC-HR-Dashboard/assets/126965510/d83179b1-b56c-4483-88d3-6a1154a7e043)
-![Dashboard 2 ](https://github.com/Rohit-Saswadkar/PWC-HR-Dashboard/assets/126965510/860fe72a-ba59-41c5-b806-302dd25a19c6)
+
+
+![Customer Churn Analysis](https://github.com/user-attachments/assets/3fb1892b-f0c1-47aa-bff2-ceb8fc99d769)
+
+![Customer Risk Analysis](https://github.com/user-attachments/assets/8ee64cd9-e78f-49f3-b2b4-1963b8430773)
 
