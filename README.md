@@ -1,6 +1,3 @@
-## Business Context:
-PricewaterhouseCoopers International Limited is a multinational professional services brand of firms, operating as partnerships under the PwC brand. It is the second-largest professional services network in the world and is considered one of the Big Four accounting firms, along with Deloitte, EY, and KPMG.
-
 ## Project Description:
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
