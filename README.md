@@ -1,3 +1,5 @@
+![PWC Power bi](https://github.com/user-attachments/assets/b92e7575-ddc6-4182-bdaa-bdd3141c9939)
+
 ## Project Description:
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
